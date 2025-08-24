@@ -1,1 +1,2 @@
-# Listas-IP
+# 📖 Listas de Introdução à Programação
+Neste repositório estão as questões que resolvi ao longo da disciplina de Introdução à Programação, sendo no total 6 listas que abordam assuntos acumulativos, dentre os quais estão as estruturas de controle, estruturas de dados e funções. As atividades foram desenvolvidas em *Python*.
